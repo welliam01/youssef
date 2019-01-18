@@ -1,5 +1,5 @@
 token=NTM0NzgyMzQyMTI1MDYwMTA3.Dx-mvQ.CM9oJ42JtJ121YWIsrqwZlZCINU
-owner=497482507273502720
+owner=535571590763773954
 prefix=Y
 game=Type Yhelp
 stayinchannel=true
